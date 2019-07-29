@@ -1,5 +1,5 @@
 *--------------------------------------*
-|			  ZWEICOM APP			   |
+|	     ZWEICOM APP	       |
 *--------------------------------------*
 
 This app calculate the n-th term in the Fibonacci sequence.
